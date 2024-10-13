@@ -7,6 +7,26 @@
     {
         "title": "",
         "price": "free",
-        "image": "img/Franbow-poster04small.webp"
+        "image": "Franbow-poster04small.webp"
+    },
+    {
+        "title": "",
+        "price": "2.70$",
+        "image": "CryOfFearthumb.webp"
+    },
+    {
+        "title": "",
+        "price": "2.99$",
+        "image": "sddefault.jpg"
+    },
+    {
+        "title": "",
+        "price": "3.00$",
+        "image": "LyytQO.png"
+    },
+    {
+        "title": "",
+        "price": "9.99$",
+        "image": "capsule_616x353.jpg"
     }
 ]
