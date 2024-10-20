@@ -1,32 +1,52 @@
 [
     {
         "title": "sonic.exe",
-        "price": "free",
-        "image": "SonicExe.jpg"
+        "price": "2.99$",
+        "image": "maxresdefault.jpg"
     },
     {
-        "title": "",
-        "price": "free",
+        "title": "Franbow",
+        "price": "2.99$",
         "image": "Franbow-poster04small.webp"
     },
     {
-        "title": "",
-        "price": "2.70$",
+        "title": "Cry of fear",
+        "price": "7.99$",
         "image": "CryOfFearthumb.webp"
     },
     {
-        "title": "",
+        "title": "night doner",
         "price": "2.99$",
         "image": "sddefault.jpg"
     },
     {
-        "title": "",
+        "title": "Badparenting",
         "price": "3.00$",
         "image": "LyytQO.png"
     },
     {
-        "title": "",
+        "title": "fears to fathom",
         "price": "9.99$",
         "image": "capsule_616x353.jpg"
+    },
+    {
+        "title": "Married in Red",
+        "price": "5.99$",
+        "image": "8tUiZz.png"
+    },
+    {
+        "title": "amanda the adventurer",
+        "price": "6,99$",
+        "image": "amanda1-1698094066372.jpg"
+    },
+    {
+        "title": "FNAF 2",
+        "price": "10.00$",
+        "image": "FNAF_2_picture.webp"
+    },
+    {
+        "title": "someone's outside",
+        "price": "8.99$",
+        "image": "qFgbDA.png"
     }
 ]

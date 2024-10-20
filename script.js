@@ -17,6 +17,10 @@ function getCardHTML(product){
         `
 }
 
+function buyItem() {
+    return''
+}
+
 getProducts().then(function(products){
     let productsList = document.querySelector(`.items`)
     if (productsList){
@@ -35,12 +39,12 @@ getProducts().then(function(products){
 
   
 function searchProducts(event){
-    event.preventDefaul()
+    event.preventDefault()
 
     let field = document.querySelector(`.search_field`)
-    let query = field.value.roLowerCase()
+    let query = field.value.toLowerCase()
     let productsList = document.querySelector(`.items`)
-
+    productsList.innerHTML = ''
     getProducts().then(function(products){
         let productsList = document.querySelector('.items')
         products.forEach(product =>{
